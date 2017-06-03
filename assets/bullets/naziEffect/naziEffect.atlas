@@ -1,0 +1,411 @@
+
+naziEffect.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nazi_big_boom_2
+  rotate: false
+  xy: 1, 834
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 7
+nazi_big_boom_2
+  rotate: false
+  xy: 1, 643
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 5
+nazi_big_boom_2
+  rotate: false
+  xy: 207, 834
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 3
+nazi_big_boom_2
+  rotate: false
+  xy: 1, 452
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 6
+nazi_big_boom_2
+  rotate: false
+  xy: 207, 643
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 2
+nazi_big_boom_2
+  rotate: false
+  xy: 413, 834
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 8
+nazi_big_boom_2
+  rotate: false
+  xy: 1, 261
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 1
+nazi_big_boom_2
+  rotate: false
+  xy: 207, 452
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 9
+nazi_big_boom_2
+  rotate: false
+  xy: 413, 643
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 4
+nazi_big_boom_2
+  rotate: false
+  xy: 619, 834
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: 0
+nazi_shatter_2
+  rotate: false
+  xy: 1, 162
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: 2
+nazi_shatter_2
+  rotate: false
+  xy: 207, 353
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: 1
+nazi_shatter_2
+  rotate: false
+  xy: 413, 544
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: 0
+nazi_shatter_2
+  rotate: false
+  xy: 619, 735
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: 3
+nazi_shatter_2
+  rotate: false
+  xy: 825, 926
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: 4
+nazi_shatter_1
+  rotate: false
+  xy: 1, 47
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: 4
+nazi_shatter_1
+  rotate: true
+  xy: 207, 246
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: 1
+nazi_shatter_1
+  rotate: true
+  xy: 413, 437
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: 2
+nazi_shatter_1
+  rotate: true
+  xy: 619, 628
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: 0
+nazi_shatter_1
+  rotate: true
+  xy: 825, 819
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: 3
+nazi_railgun_gather
+  rotate: false
+  xy: 949, 935
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 4
+nazi_railgun_gather
+  rotate: false
+  xy: 125, 171
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 1
+nazi_small_boom_2
+  rotate: true
+  xy: 189, 138
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 5
+nazi_railgun_gather
+  rotate: false
+  xy: 331, 362
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 2
+nazi_small_boom_2
+  rotate: true
+  xy: 395, 329
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 0
+nazi_railgun_gather
+  rotate: false
+  xy: 537, 553
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 0
+nazi_small_boom_2
+  rotate: true
+  xy: 601, 520
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 1
+nazi_railgun_gather
+  rotate: false
+  xy: 743, 744
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 3
+nazi_small_boom_2
+  rotate: true
+  xy: 807, 711
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 3
+nazi_small_boom_2
+  rotate: false
+  xy: 917, 709
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 4
+nazi_small_boom_2
+  rotate: false
+  xy: 299, 136
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 2
+nazi_small_boom_1
+  rotate: false
+  xy: 505, 331
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: 3
+nazi_small_boom_1
+  rotate: false
+  xy: 711, 522
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: 5
+nazi_small_boom_1
+  rotate: true
+  xy: 811, 611
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: 1
+nazi_small_boom_1
+  rotate: true
+  xy: 917, 609
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: 2
+nazi_small_boom_1
+  rotate: true
+  xy: 811, 511
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: 0
+nazi_small_boom_1
+  rotate: true
+  xy: 917, 509
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: 4
+nazi_railgun_gather
+  rotate: false
+  xy: 108, 72
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 5
+nazi_railgun_all_head
+  rotate: false
+  xy: 1, 17
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 1
+nazi_railgun_all_body
+  rotate: false
+  xy: 108, 42
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 0
+nazi_railgun_half_head
+  rotate: false
+  xy: 1, 1
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 1
+nazi_railgun_half_body
+  rotate: false
+  xy: 33, 1
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 1
+nazi_railgun_all_head
+  rotate: false
+  xy: 172, 108
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 0
+nazi_railgun_all_body
+  rotate: false
+  xy: 172, 78
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 1
+nazi_bullet_hit
+  rotate: false
+  xy: 234, 102
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+nazi_bullet_hit
+  rotate: false
+  xy: 234, 66
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+nazi_bullet_2
+  rotate: true
+  xy: 63, 33
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: 1
+nazi_bullet_2
+  rotate: false
+  xy: 270, 95
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: 0
+nazi_bullet_hit
+  rotate: false
+  xy: 284, 100
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+nazi_bullet_hit
+  rotate: false
+  xy: 320, 100
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+nazi_railgun_half_head
+  rotate: false
+  xy: 63, 17
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 0
+nazi_railgun_half_body
+  rotate: false
+  xy: 65, 1
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 0
+nazi_railgun_quarter_head
+  rotate: false
+  xy: 125, 162
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 0
+nazi_railgun_quarter_body
+  rotate: false
+  xy: 142, 162
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 1
+nazi_railgun_quarter_head
+  rotate: false
+  xy: 159, 162
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 1
+nazi_bullet_1
+  rotate: false
+  xy: 189, 247
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 1
+nazi_bullet_1
+  rotate: false
+  xy: 395, 438
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 0
+nazi_railgun_quarter_body
+  rotate: false
+  xy: 601, 634
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 0

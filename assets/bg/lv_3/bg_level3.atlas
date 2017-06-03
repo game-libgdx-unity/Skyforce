@@ -1,0 +1,110 @@
+
+bg_level3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hill
+  rotate: true
+  xy: 1, 112
+  size: 143, 256
+  orig: 143, 256
+  offset: 0, 0
+  index: -1
+canyon
+  rotate: true
+  xy: 1, 24
+  size: 86, 256
+  orig: 86, 256
+  offset: 0, 0
+  index: -1
+satellite
+  rotate: false
+  xy: 259, 127
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+crater
+  rotate: false
+  xy: 380, 127
+  size: 114, 128
+  orig: 114, 128
+  offset: 0, 0
+  index: 2
+factory
+  rotate: true
+  xy: 496, 145
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: 0
+factory
+  rotate: true
+  xy: 627, 145
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: 1
+aerolite
+  rotate: false
+  xy: 259, 28
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+crater
+  rotate: false
+  xy: 758, 191
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+alien_tower
+  rotate: false
+  xy: 353, 61
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+apollo
+  rotate: false
+  xy: 824, 191
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+comer
+  rotate: false
+  xy: 758, 151
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: 0
+comer
+  rotate: false
+  xy: 1, 1
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 1
+crater
+  rotate: false
+  xy: 404, 93
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+road
+  rotate: false
+  xy: 872, 223
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+purBG
+  rotate: false
+  xy: 496, 141
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

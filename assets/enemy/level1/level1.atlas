@@ -1,0 +1,138 @@
+
+level1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nazi_aircraft_broken
+  rotate: false
+  xy: 1, 510
+  size: 121, 507
+  orig: 121, 507
+  offset: 0, 0
+  index: -1
+nazi_aircraft
+  rotate: false
+  xy: 1, 1
+  size: 121, 507
+  orig: 121, 507
+  offset: 0, 0
+  index: -1
+boss_broken
+  rotate: false
+  xy: 124, 762
+  size: 358, 255
+  orig: 358, 255
+  offset: 0, 0
+  index: -1
+boss
+  rotate: false
+  xy: 124, 505
+  size: 358, 255
+  orig: 358, 255
+  offset: 0, 0
+  index: -1
+nazi_battleship_wave
+  rotate: false
+  xy: 484, 518
+  size: 73, 499
+  orig: 73, 499
+  offset: 0, 0
+  index: 1
+nazi_battleship_wave
+  rotate: false
+  xy: 124, 4
+  size: 73, 499
+  orig: 73, 499
+  offset: 0, 0
+  index: 2
+nazi_battleship_wave
+  rotate: false
+  xy: 559, 518
+  size: 73, 499
+  orig: 73, 499
+  offset: 0, 0
+  index: 0
+nazi_battleship_broken
+  rotate: false
+  xy: 199, 33
+  size: 82, 470
+  orig: 82, 470
+  offset: 0, 0
+  index: -1
+nazi_battleship
+  rotate: false
+  xy: 634, 547
+  size: 82, 470
+  orig: 82, 470
+  offset: 0, 0
+  index: -1
+nazi_destroyer_wave
+  rotate: false
+  xy: 283, 350
+  size: 42, 153
+  orig: 42, 153
+  offset: 0, 0
+  index: 0
+nazi_destroyer_wave
+  rotate: false
+  xy: 718, 864
+  size: 42, 153
+  orig: 42, 153
+  offset: 0, 0
+  index: 1
+nazi_destroyer_wave
+  rotate: false
+  xy: 283, 195
+  size: 42, 153
+  orig: 42, 153
+  offset: 0, 0
+  index: 2
+nazi_destroyer_broken
+  rotate: false
+  xy: 327, 367
+  size: 43, 136
+  orig: 43, 136
+  offset: 0, 0
+  index: -1
+nazi_destroyer
+  rotate: false
+  xy: 762, 881
+  size: 43, 136
+  orig: 43, 136
+  offset: 0, 0
+  index: -1
+boss_railgun
+  rotate: false
+  xy: 372, 398
+  size: 71, 105
+  orig: 71, 105
+  offset: 0, 0
+  index: -1
+boss_railgun_broken
+  rotate: false
+  xy: 807, 912
+  size: 71, 105
+  orig: 71, 105
+  offset: 0, 0
+  index: -1
+boss_aircraft
+  rotate: false
+  xy: 880, 954
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+boss_aircraft_broken
+  rotate: true
+  xy: 327, 262
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+nazi_sea_canon
+  rotate: false
+  xy: 327, 210
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="/maybay/libs/gdx.jar" sourcepath="/maybay/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/appflood-splash-screen-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/chartboostdata.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/adcolony.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/revmob-6.9.6.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/maybay-game"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

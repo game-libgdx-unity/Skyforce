@@ -1,0 +1,194 @@
+
+level4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv_4_boss_shadow
+  rotate: false
+  xy: 1, 691
+  size: 736, 332
+  orig: 736, 332
+  offset: 0, 0
+  index: -1
+lv_4_boss_body
+  rotate: false
+  xy: 1, 369
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+lv_4_boss_craft_1_broken
+  rotate: false
+  xy: 739, 703
+  size: 60, 320
+  orig: 60, 320
+  offset: 0, 0
+  index: -1
+lv_4_boss_craft
+  rotate: false
+  xy: 1, 47
+  size: 60, 320
+  orig: 60, 320
+  offset: 0, 0
+  index: 1
+lv_4_boss_nazi_logo
+  rotate: false
+  xy: 275, 418
+  size: 89, 271
+  orig: 89, 271
+  offset: 0, 0
+  index: -1
+nazi_test_weapon_shadow
+  rotate: false
+  xy: 801, 911
+  size: 218, 112
+  orig: 218, 112
+  offset: 0, 0
+  index: -1
+lv_4_boss_hand
+  rotate: false
+  xy: 63, 138
+  size: 84, 229
+  orig: 84, 229
+  offset: 0, 0
+  index: -1
+lv_4_boss_hand_broken
+  rotate: false
+  xy: 366, 460
+  size: 84, 229
+  orig: 84, 229
+  offset: 0, 0
+  index: -1
+lv_4_boss_head
+  rotate: false
+  xy: 801, 750
+  size: 131, 159
+  orig: 131, 159
+  offset: 0, 0
+  index: 1
+lv_4_boss_head
+  rotate: false
+  xy: 452, 530
+  size: 131, 159
+  orig: 131, 159
+  offset: 0, 0
+  index: 2
+lv_4_boss_base
+  rotate: false
+  xy: 934, 831
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+nazi_test_weapon_core
+  rotate: false
+  xy: 149, 255
+  size: 119, 112
+  orig: 119, 112
+  offset: 0, 0
+  index: -1
+nazi_test_weapon_right
+  rotate: false
+  xy: 63, 58
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+nazi_test_weapon_right_broken
+  rotate: false
+  xy: 585, 611
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+nazi_test_weapon_left
+  rotate: true
+  xy: 452, 460
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+nazi_test_weapon_left_broken
+  rotate: false
+  xy: 934, 751
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+lv_4_boss_craft
+  rotate: false
+  xy: 149, 171
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: 2
+lv_4_boss_craft_2_broken
+  rotate: true
+  xy: 656, 631
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+nazi_land_canon
+  rotate: true
+  xy: 1, 1
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket
+  rotate: true
+  xy: 275, 371
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket_broken
+  rotate: true
+  xy: 801, 703
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+alien_railguner
+  rotate: false
+  xy: 585, 553
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+nazi_robot_broken
+  rotate: true
+  xy: 532, 471
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+nazi_robot
+  rotate: false
+  xy: 211, 210
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+lv_4_boss_canon
+  rotate: false
+  xy: 366, 431
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+lv_4_boss_eye
+  rotate: false
+  xy: 63, 50
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: 2
+lv_4_boss_eye
+  rotate: false
+  xy: 134, 131
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: 1

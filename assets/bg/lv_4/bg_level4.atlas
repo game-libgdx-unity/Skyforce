@@ -1,0 +1,131 @@
+
+bg_level4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+floor
+  rotate: false
+  xy: 1, 191
+  size: 640, 64
+  orig: 640, 64
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 1, 20
+  size: 93, 169
+  orig: 93, 169
+  offset: 0, 0
+  index: 1
+wall_1_broken
+  rotate: false
+  xy: 96, 20
+  size: 93, 169
+  orig: 93, 169
+  offset: 0, 0
+  index: -1
+crush
+  rotate: false
+  xy: 191, 78
+  size: 129, 111
+  orig: 129, 111
+  offset: 0, 0
+  index: 0
+buret
+  rotate: true
+  xy: 322, 97
+  size: 92, 125
+  orig: 92, 125
+  offset: 0, 0
+  index: 0
+baffle_broken
+  rotate: true
+  xy: 449, 103
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+wall
+  rotate: true
+  xy: 643, 191
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: 0
+baffle
+  rotate: true
+  xy: 563, 103
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+wall_0_broken
+  rotate: true
+  xy: 773, 191
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+computer_broken
+  rotate: true
+  xy: 677, 101
+  size: 88, 110
+  orig: 88, 110
+  offset: 0, 0
+  index: -1
+computer
+  rotate: true
+  xy: 789, 101
+  size: 88, 110
+  orig: 88, 110
+  offset: 0, 0
+  index: 0
+buret_broken
+  rotate: false
+  xy: 322, 1
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+crush
+  rotate: false
+  xy: 903, 204
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: 2
+alien_crystal
+  rotate: true
+  xy: 191, 18
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 406, 57
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+vent
+  rotate: false
+  xy: 269, 39
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 406, 22
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+crush
+  rotate: true
+  xy: 998, 218
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: 1

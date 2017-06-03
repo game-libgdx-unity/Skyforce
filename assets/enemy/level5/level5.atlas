@@ -1,0 +1,75 @@
+
+level5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv_5_boss_stone_r
+  rotate: false
+  xy: 0, 259
+  size: 236, 253
+  orig: 236, 253
+  offset: 0, 0
+  index: -1
+lv_5_boss_stone_l
+  rotate: false
+  xy: 0, 41
+  size: 221, 218
+  orig: 221, 218
+  offset: 0, 0
+  index: -1
+lv_5_boss_stone_d
+  rotate: false
+  xy: 236, 342
+  size: 247, 170
+  orig: 247, 170
+  offset: 0, 0
+  index: -1
+lv_5_boss_shield_r
+  rotate: true
+  xy: 483, 341
+  size: 171, 194
+  orig: 171, 194
+  offset: 0, 0
+  index: -1
+lv_5_boss_shield_l
+  rotate: true
+  xy: 677, 366
+  size: 146, 185
+  orig: 146, 185
+  offset: 0, 0
+  index: -1
+lv_5_boss_shield_d
+  rotate: false
+  xy: 862, 421
+  size: 162, 91
+  orig: 162, 91
+  offset: 0, 0
+  index: -1
+alien_aeroboat
+  rotate: true
+  xy: 236, 277
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+alien_aeroboat_b
+  rotate: true
+  xy: 348, 282
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+lv_5_boss_core
+  rotate: false
+  xy: 0, 0
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+lv_5_boss_canon
+  rotate: true
+  xy: 677, 350
+  size: 16, 57
+  orig: 16, 57
+  offset: 0, 0
+  index: -1

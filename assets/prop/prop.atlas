@@ -1,0 +1,271 @@
+
+prop.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lwingman_stand
+  rotate: false
+  xy: 1, 193
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 0
+lwingman_left
+  rotate: false
+  xy: 1, 129
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 2
+lwingman_right
+  rotate: false
+  xy: 136, 193
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 2
+wingman_right
+  rotate: false
+  xy: 1, 65
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 1
+wingman_right
+  rotate: false
+  xy: 1, 1
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 0
+wingman_right
+  rotate: false
+  xy: 136, 129
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 3
+lwingman_left
+  rotate: false
+  xy: 271, 193
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 3
+lwingman_right
+  rotate: false
+  xy: 136, 65
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 3
+wingman_left
+  rotate: false
+  xy: 136, 1
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 2
+lwingman_stand
+  rotate: false
+  xy: 271, 129
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 1
+lwingman_left
+  rotate: false
+  xy: 406, 193
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 0
+wingman_stand
+  rotate: false
+  xy: 271, 65
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 1
+lwingman_right
+  rotate: false
+  xy: 271, 1
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 0
+wingman_left
+  rotate: false
+  xy: 406, 129
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 0
+wingman_left
+  rotate: false
+  xy: 541, 193
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 3
+wingman_stand
+  rotate: false
+  xy: 406, 65
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 0
+wingman_left
+  rotate: false
+  xy: 406, 1
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 1
+wingman_right
+  rotate: false
+  xy: 541, 129
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 2
+lwingman_right
+  rotate: false
+  xy: 676, 193
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 1
+lwingman_left
+  rotate: false
+  xy: 541, 65
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: 1
+boom
+  rotate: false
+  xy: 676, 159
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 811, 223
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: 1
+magnet
+  rotate: false
+  xy: 541, 31
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 676, 125
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: 2
+gun_power
+  rotate: false
+  xy: 710, 159
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 844, 223
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: 0
+silver
+  rotate: false
+  xy: 574, 31
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+copper
+  rotate: false
+  xy: 676, 91
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+wingman
+  rotate: false
+  xy: 709, 127
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 743, 159
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+player_missile
+  rotate: true
+  xy: 811, 211
+  size: 10, 48
+  orig: 10, 48
+  offset: 0, 0
+  index: 0
+player_missile
+  rotate: true
+  xy: 541, 19
+  size: 10, 48
+  orig: 10, 48
+  offset: 0, 0
+  index: 1
+missile
+  rotate: false
+  xy: 877, 223
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 606, 31
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+wingman_bullet_force2
+  rotate: false
+  xy: 775, 159
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+wingman_bullet_force4
+  rotate: true
+  xy: 743, 153
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+wingman_bullet_force8
+  rotate: true
+  xy: 811, 205
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+wingman_bullet_force1
+  rotate: true
+  xy: 861, 217
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1

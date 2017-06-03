@@ -1,0 +1,99 @@
+
+me262boom.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+me262_boom
+  rotate: false
+  xy: 0, 474
+  size: 464, 485
+  orig: 480, 489
+  offset: 2, 0
+  index: 4
+me262_boom
+  rotate: false
+  xy: 0, 0
+  size: 474, 474
+  orig: 480, 489
+  offset: 0, 2
+  index: 6
+me262_boom
+  rotate: false
+  xy: 464, 475
+  size: 431, 484
+  orig: 480, 489
+  offset: 20, 4
+  index: 5
+me262_boom
+  rotate: false
+  xy: 474, 10
+  size: 480, 465
+  orig: 480, 489
+  offset: 0, 24
+  index: 7
+me262_boom
+  rotate: false
+  xy: 895, 840
+  size: 121, 119
+  orig: 480, 489
+  offset: 181, 190
+  index: 0
+
+me262boom2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+me262_boom
+  rotate: false
+  xy: 0, 466
+  size: 467, 466
+  orig: 480, 489
+  offset: 13, 3
+  index: 8
+me262_boom
+  rotate: false
+  xy: 0, 0
+  size: 455, 466
+  orig: 480, 489
+  offset: 24, 5
+  index: 3
+me262_boom
+  rotate: false
+  xy: 467, 467
+  size: 433, 465
+  orig: 480, 489
+  offset: 35, 6
+  index: 9
+me262_boom
+  rotate: false
+  xy: 455, 15
+  size: 439, 451
+  orig: 480, 489
+  offset: 28, 25
+  index: 10
+
+me262boom3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+me262_boom
+  rotate: false
+  xy: 0, 0
+  size: 222, 249
+  orig: 480, 489
+  offset: 132, 121
+  index: 2
+me262_boom
+  rotate: false
+  xy: 222, 74
+  size: 171, 175
+  orig: 480, 489
+  offset: 158, 157
+  index: 11
+me262_boom
+  rotate: false
+  xy: 393, 98
+  size: 155, 151
+  orig: 480, 489
+  offset: 162, 171
+  index: 1

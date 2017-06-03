@@ -1,0 +1,138 @@
+
+bg_level2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+miracle
+  rotate: false
+  xy: 0, 0
+  size: 317, 510
+  orig: 317, 510
+  offset: 0, 0
+  index: -1
+land
+  rotate: false
+  xy: 318, 446
+  size: 640, 64
+  orig: 640, 64
+  offset: 0, 0
+  index: -1
+hill
+  rotate: false
+  xy: 318, 212
+  size: 256, 233
+  orig: 256, 233
+  offset: 0, 0
+  index: -1
+building_1_shadow
+  rotate: false
+  xy: 318, 46
+  size: 141, 165
+  orig: 141, 165
+  offset: 0, 0
+  index: -1
+building_2_shadow
+  rotate: false
+  xy: 575, 281
+  size: 141, 164
+  orig: 141, 164
+  offset: 0, 0
+  index: -1
+building_1
+  rotate: false
+  xy: 717, 317
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+building_2
+  rotate: false
+  xy: 460, 83
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+building_1
+  rotate: false
+  xy: 846, 317
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+building_2
+  rotate: false
+  xy: 589, 152
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+building_1
+  rotate: false
+  xy: 718, 188
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+building_2
+  rotate: false
+  xy: 847, 188
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+grass
+  rotate: false
+  xy: 589, 44
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: 0
+farmland
+  rotate: true
+  xy: 959, 454
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+water_tower
+  rotate: true
+  xy: 318, 5
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 460, 23
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: 0
+grass
+  rotate: false
+  xy: 521, 25
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: 1
+tree
+  rotate: true
+  xy: 976, 411
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: 1
+road
+  rotate: false
+  xy: 718, 155
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+road
+  rotate: false
+  xy: 379, 13
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1

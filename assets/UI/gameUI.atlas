@@ -1,0 +1,549 @@
+
+gameUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+warning_s
+  rotate: false
+  xy: 0, 202
+  size: 480, 49
+  orig: 480, 49
+  offset: 0, 0
+  index: -1
+warning
+  rotate: false
+  xy: 0, 152
+  size: 480, 49
+  orig: 480, 49
+  offset: 0, 0
+  index: -1
+scene
+  rotate: false
+  xy: 481, 170
+  size: 284, 81
+  orig: 284, 81
+  offset: 0, 0
+  index: -1
+launch_press
+  rotate: false
+  xy: 0, 33
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: 1
+launch_press
+  rotate: false
+  xy: 118, 33
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: 2
+launch_normal
+  rotate: false
+  xy: 236, 33
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+launch_press
+  rotate: false
+  xy: 354, 33
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: 0
+gameover_logo
+  rotate: false
+  xy: 766, 219
+  size: 144, 32
+  orig: 144, 32
+  offset: 0, 0
+  index: -1
+wing_logo
+  rotate: false
+  xy: 0, 0
+  size: 132, 32
+  orig: 132, 32
+  offset: 0, 0
+  index: -1
+pasue
+  rotate: false
+  xy: 766, 186
+  size: 124, 32
+  orig: 124, 32
+  offset: 0, 0
+  index: -1
+pause_press
+  rotate: false
+  xy: 911, 161
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pause_normal
+  rotate: false
+  xy: 481, 79
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+sound_on_press
+  rotate: false
+  xy: 572, 109
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+music_off_press
+  rotate: false
+  xy: 633, 109
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+music_on_normal
+  rotate: false
+  xy: 694, 109
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+music_on_press
+  rotate: false
+  xy: 472, 18
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sound_off_normal
+  rotate: false
+  xy: 533, 18
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+music_off_normal
+  rotate: false
+  xy: 594, 48
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sound_off_press
+  rotate: false
+  xy: 655, 48
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sound_on_normal
+  rotate: false
+  xy: 716, 48
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+life
+  rotate: false
+  xy: 594, 5
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+boom_logo
+  rotate: false
+  xy: 637, 5
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+launch_logo
+  rotate: false
+  xy: 133, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+UI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cockpit_top
+  rotate: false
+  xy: 0, 252
+  size: 480, 259
+  orig: 480, 259
+  offset: 0, 0
+  index: -1
+cockpit_end
+  rotate: false
+  xy: 0, 5
+  size: 480, 246
+  orig: 480, 246
+  offset: 0, 0
+  index: -1
+explanation_bar
+  rotate: false
+  xy: 481, 450
+  size: 402, 61
+  orig: 402, 61
+  offset: 0, 0
+  index: -1
+store_button_press
+  rotate: false
+  xy: 481, 383
+  size: 390, 66
+  orig: 390, 66
+  offset: 0, 0
+  index: -1
+store_button_normal
+  rotate: false
+  xy: 481, 316
+  size: 390, 66
+  orig: 390, 66
+  offset: 0, 0
+  index: -1
+store_button_cash
+  rotate: false
+  xy: 481, 249
+  size: 390, 66
+  orig: 390, 66
+  offset: 0, 0
+  index: -1
+tag
+  rotate: false
+  xy: 481, 203
+  size: 403, 45
+  orig: 403, 45
+  offset: 0, 0
+  index: 0
+tag
+  rotate: false
+  xy: 481, 157
+  size: 403, 45
+  orig: 403, 45
+  offset: 0, 0
+  index: 1
+yellow_button
+  rotate: false
+  xy: 481, 90
+  size: 226, 66
+  orig: 226, 66
+  offset: 0, 0
+  index: -1
+green_button
+  rotate: false
+  xy: 481, 23
+  size: 226, 66
+  orig: 226, 66
+  offset: 0, 0
+  index: -1
+green_button_small
+  rotate: false
+  xy: 708, 90
+  size: 159, 66
+  orig: 159, 66
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 708, 57
+  size: 199, 32
+  orig: 199, 32
+  offset: 0, 0
+  index: -1
+back_press
+  rotate: false
+  xy: 884, 451
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+ADfree
+  rotate: false
+  xy: 481, 0
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+rate_button_press
+  rotate: false
+  xy: 884, 390
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+rate_button_normal
+  rotate: false
+  xy: 872, 329
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+back_normal
+  rotate: false
+  xy: 872, 268
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+wireframe
+  rotate: false
+  xy: 885, 192
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+9999
+  rotate: false
+  xy: 708, 23
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+boom
+  rotate: false
+  xy: 885, 159
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+1999
+  rotate: false
+  xy: 740, 23
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+499
+  rotate: false
+  xy: 772, 23
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 918, 159
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: 1
+magnet
+  rotate: false
+  xy: 804, 24
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 836, 24
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: 2
+gun_power
+  rotate: false
+  xy: 868, 24
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 995, 479
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+missile
+  rotate: false
+  xy: 995, 446
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+luck
+  rotate: false
+  xy: 961, 235
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dice
+  rotate: false
+  xy: 961, 202
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+mercilessly
+  rotate: false
+  xy: 531, 2
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 868, 124
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: 0
+shooter
+  rotate: false
+  xy: 868, 91
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+4999
+  rotate: false
+  xy: 900, 126
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+999
+  rotate: false
+  xy: 900, 93
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+199
+  rotate: false
+  xy: 908, 60
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+wingman
+  rotate: false
+  xy: 931, 128
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 950, 159
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+money_logo_press
+  rotate: false
+  xy: 995, 416
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+money_logo_normal
+  rotate: false
+  xy: 931, 98
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+cash_logo_normal
+  rotate: false
+  xy: 564, 3
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+cash_logo_press
+  rotate: false
+  xy: 584, 3
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+silver
+  rotate: false
+  xy: 995, 399
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+level_press
+  rotate: false
+  xy: 947, 112
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+chievement_level_normal
+  rotate: false
+  xy: 604, 7
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+stats_level_normal
+  rotate: false
+  xy: 621, 7
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+level_open_press
+  rotate: false
+  xy: 638, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+level_close
+  rotate: false
+  xy: 654, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+copper
+  rotate: false
+  xy: 670, 6
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 686, 6
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+level_open_cash
+  rotate: false
+  xy: 702, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+level_open_normal
+  rotate: false
+  xy: 718, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+scrollbar
+  rotate: false
+  xy: 872, 426
+  size: 4, 23
+  orig: 4, 23
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 0, 0
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

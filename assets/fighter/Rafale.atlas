@@ -1,0 +1,173 @@
+
+Rafale.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rafal_shatter
+  rotate: false
+  xy: 1, 134
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: 3
+rafal_shatter
+  rotate: false
+  xy: 1, 11
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: 0
+rafal_shatter
+  rotate: false
+  xy: 123, 134
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: 1
+rafal_shatter
+  rotate: false
+  xy: 123, 11
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: 2
+rafal_shatter
+  rotate: false
+  xy: 245, 134
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: 4
+rafal_left
+  rotate: false
+  xy: 245, 43
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+rafal_right
+  rotate: false
+  xy: 367, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+rafal_left
+  rotate: false
+  xy: 429, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+rafal_stand
+  rotate: false
+  xy: 491, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+rafal_right
+  rotate: false
+  xy: 553, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+rafal_left
+  rotate: false
+  xy: 615, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+rafal_left
+  rotate: false
+  xy: 677, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+rafal_right
+  rotate: false
+  xy: 739, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+rafal_stand
+  rotate: false
+  xy: 801, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+rafal_right
+  rotate: false
+  xy: 863, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+rafal_lv3_bullet
+  rotate: true
+  xy: 1, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+rafal_lv2_bullet
+  rotate: true
+  xy: 35, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+rafal_lv2_bullet
+  rotate: true
+  xy: 69, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+rafal_lv1_bullet
+  rotate: true
+  xy: 103, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+rafal_lv1_bullet
+  rotate: true
+  xy: 137, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+rafal_lv3_bullet
+  rotate: true
+  xy: 171, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+rafal_bullet_force3
+  rotate: true
+  xy: 245, 37
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+rafal_bullet_force1
+  rotate: false
+  xy: 307, 100
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+rafal_bullet_force5
+  rotate: true
+  xy: 367, 160
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1

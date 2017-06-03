@@ -1,0 +1,243 @@
+
+me262.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+railgun_hit
+  rotate: false
+  xy: 0, 106
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: 1
+railgun_hit
+  rotate: false
+  xy: 139, 106
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: 0
+railgun_hit
+  rotate: false
+  xy: 278, 106
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: 2
+railgun_hit
+  rotate: false
+  xy: 417, 106
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: 3
+me262_shatter
+  rotate: false
+  xy: 556, 122
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: 4
+me262_shatter
+  rotate: false
+  xy: 676, 122
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: 2
+me262_shatter
+  rotate: false
+  xy: 796, 122
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: 3
+me262_left
+  rotate: false
+  xy: 0, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+me262_right
+  rotate: false
+  xy: 916, 154
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+me262_right
+  rotate: false
+  xy: 61, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+me262_stand
+  rotate: false
+  xy: 122, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+me262_right
+  rotate: false
+  xy: 183, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+me262_stand
+  rotate: false
+  xy: 244, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+me262_left
+  rotate: false
+  xy: 305, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+me262_left
+  rotate: false
+  xy: 366, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+me262_right
+  rotate: false
+  xy: 427, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+me262_left
+  rotate: false
+  xy: 488, 16
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+me262_shatter
+  rotate: false
+  xy: 556, 0
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: 1
+me262_shatter
+  rotate: false
+  xy: 676, 0
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: 0
+me262railgun_force6
+  rotate: false
+  xy: 916, 138
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: 0
+me262railgun_force6
+  rotate: false
+  xy: 977, 228
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: 1
+me262railgun_force3
+  rotate: false
+  xy: 1008, 228
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 0
+me262railgun_force6
+  rotate: false
+  xy: 0, 5
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+me262_lv3_bullet
+  rotate: false
+  xy: 796, 89
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+me262_lv3_bullet
+  rotate: false
+  xy: 977, 195
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+me262_lv2_bullet
+  rotate: false
+  xy: 796, 56
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+me262_lv1_bullet
+  rotate: false
+  xy: 805, 89
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+me262_lv1_bullet
+  rotate: false
+  xy: 977, 162
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+me262_lv2_bullet
+  rotate: false
+  xy: 986, 195
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+me262_bullet_force2
+  rotate: false
+  xy: 549, 73
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+me262_bullet_force4
+  rotate: false
+  xy: 796, 23
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+me262_bullet_force1
+  rotate: false
+  xy: 805, 56
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+me262railgun_force3
+  rotate: false
+  xy: 916, 122
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 1
+me262railgun_force3
+  rotate: false
+  xy: 947, 143
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1

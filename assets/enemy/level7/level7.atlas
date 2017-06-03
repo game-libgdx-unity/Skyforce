@@ -1,0 +1,192 @@
+
+level7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv_7_boss_craft
+  rotate: false
+  xy: 1, 627
+  size: 620, 394
+  orig: 620, 394
+  offset: 0, 0
+  index: 1
+lv_7_boss_craft_shadow
+  rotate: false
+  xy: 1, 327
+  size: 478, 298
+  orig: 478, 298
+  offset: 0, 0
+  index: -1
+lv_7_boss_head_shadow
+  rotate: false
+  xy: 623, 686
+  size: 264, 335
+  orig: 264, 335
+  offset: 0, 0
+  index: -1
+lv_7_boss_silk_shadow
+  rotate: false
+  xy: 1, 31
+  size: 295, 294
+  orig: 295, 294
+  offset: 0, 0
+  index: 0
+lv_7_boss_silk
+  rotate: true
+  xy: 298, 30
+  size: 295, 218
+  orig: 295, 218
+  offset: 0, 0
+  index: 0
+lv_7_boss_silk_shadow
+  rotate: true
+  xy: 481, 346
+  size: 279, 206
+  orig: 279, 206
+  offset: 0, 0
+  index: 2
+lv_7_boss_head
+  rotate: false
+  xy: 689, 328
+  size: 214, 356
+  orig: 214, 356
+  offset: 0, 0
+  index: -1
+lv_7_boss_s_shadow
+  rotate: true
+  xy: 518, 69
+  size: 275, 150
+  orig: 275, 150
+  offset: 0, 0
+  index: -1
+lv_7_boss_silk
+  rotate: true
+  xy: 889, 781
+  size: 240, 121
+  orig: 240, 121
+  offset: 0, 0
+  index: 2
+lv_7_boss_craft
+  rotate: true
+  xy: 905, 159
+  size: 620, 42
+  orig: 620, 42
+  offset: 0, 0
+  index: 2
+lv_7_boss_slime
+  rotate: false
+  xy: 670, 181
+  size: 208, 145
+  orig: 208, 145
+  offset: 0, 0
+  index: -1
+lv_7_boss_silk
+  rotate: true
+  xy: 949, 512
+  size: 267, 55
+  orig: 267, 55
+  offset: 0, 0
+  index: 1
+lv_7_boss_s_base
+  rotate: false
+  xy: 670, 79
+  size: 213, 100
+  orig: 213, 100
+  offset: 0, 0
+  index: -1
+lv_7_boss_force
+  rotate: true
+  xy: 949, 406
+  size: 104, 73
+  orig: 104, 73
+  offset: 0, 0
+  index: -1
+lv_7_boss_arm
+  rotate: true
+  xy: 949, 315
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+lv_7_boss_s_head
+  rotate: false
+  xy: 885, 1
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+lv_7_boss_egg
+  rotate: false
+  xy: 623, 635
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: 2
+lv_7_boss_egg
+  rotate: false
+  xy: 949, 264
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: 0
+lv_7_boss_egg
+  rotate: false
+  xy: 949, 213
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: 1
+lv_7_boss_s_tube_broken
+  rotate: true
+  xy: 1, 5
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+lv_7_boss_s_tube
+  rotate: true
+  xy: 518, 43
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+
+level72.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv_7_boss_silk_shadow
+  rotate: false
+  xy: 1, 31
+  size: 267, 93
+  orig: 267, 93
+  offset: 0, 0
+  index: 1
+lv_7_boss_wall
+  rotate: true
+  xy: 270, 1
+  size: 123, 172
+  orig: 123, 172
+  offset: 0, 0
+  index: 0
+lv_7_boss_wall
+  rotate: true
+  xy: 444, 1
+  size: 123, 172
+  orig: 123, 172
+  offset: 0, 0
+  index: 1
+lv_7_boss_s_head_broken
+  rotate: true
+  xy: 618, 18
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+lv_7_boss_claw
+  rotate: false
+  xy: 776, 28
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,311 @@
+
+allLevel.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alien_aircraft_broken
+  rotate: true
+  xy: 1, 252
+  size: 240, 248
+  orig: 240, 248
+  offset: 0, 0
+  index: -1
+alien_battleship_b
+  rotate: true
+  xy: 251, 336
+  size: 156, 539
+  orig: 156, 539
+  offset: 0, 0
+  index: -1
+alien_battleship_a
+  rotate: false
+  xy: 792, 113
+  size: 163, 379
+  orig: 163, 379
+  offset: 0, 0
+  index: -1
+alien_battleship_b_broken
+  rotate: true
+  xy: 251, 179
+  size: 155, 539
+  orig: 155, 539
+  offset: 0, 0
+  index: -1
+alien_aircraft
+  rotate: false
+  xy: 1, 1
+  size: 239, 249
+  orig: 239, 249
+  offset: 0, 0
+  index: -1
+alien_battleship_a_broken
+  rotate: true
+  xy: 242, 14
+  size: 163, 379
+  orig: 163, 379
+  offset: 0, 0
+  index: -1
+
+allLevel2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nazi_high_robot
+  rotate: false
+  xy: 1, 83
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+nazi_high_robot_broken
+  rotate: false
+  xy: 1, 37
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+alien_tank
+  rotate: false
+  xy: 82, 50
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+alien_canon_broken
+  rotate: true
+  xy: 130, 84
+  size: 43, 79
+  orig: 43, 79
+  offset: 0, 0
+  index: -1
+alien_canon
+  rotate: true
+  xy: 211, 84
+  size: 43, 79
+  orig: 43, 79
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket
+  rotate: true
+  xy: 292, 82
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket_broken
+  rotate: true
+  xy: 358, 82
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+alien_mech
+  rotate: false
+  xy: 424, 82
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+alien_ufo_b
+  rotate: false
+  xy: 487, 81
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+nazi_canon
+  rotate: false
+  xy: 1, 3
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: 5
+nazi_robot_broken
+  rotate: false
+  xy: 548, 84
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+nazi_robot
+  rotate: false
+  xy: 607, 84
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+nazi_ufo_b
+  rotate: false
+  xy: 666, 86
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+alien_robot_l
+  rotate: true
+  xy: 725, 88
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+alien_robot_r
+  rotate: true
+  xy: 782, 88
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+alien_ufo_a
+  rotate: true
+  xy: 839, 79
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+nazi_ufo_a
+  rotate: false
+  xy: 892, 91
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: 0
+alien_canon_3_l_broken
+  rotate: false
+  xy: 130, 50
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+alien_canon_3_l
+  rotate: false
+  xy: 945, 95
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+alien_canon_3_r_broken
+  rotate: false
+  xy: 186, 50
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+nazi_canon_4_broken
+  rotate: true
+  xy: 82, 1
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+nazi_canon
+  rotate: true
+  xy: 117, 1
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: 4
+alien_canon_3_r
+  rotate: false
+  xy: 152, 16
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+alien_canon_2_broken
+  rotate: true
+  xy: 242, 46
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+nazi_railgun
+  rotate: true
+  xy: 285, 51
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+nazi_railgun_broken
+  rotate: true
+  xy: 337, 51
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+alien_canon
+  rotate: true
+  xy: 389, 44
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: 2
+alien_canon
+  rotate: false
+  xy: 432, 45
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: 1
+alien_canon_1_broken
+  rotate: false
+  xy: 208, 13
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+nazi_canon
+  rotate: false
+  xy: 241, 13
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: 3
+nazi_canon
+  rotate: true
+  xy: 892, 64
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: 2
+nazi_canon
+  rotate: false
+  xy: 926, 59
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: 1
+nazi_canon_3_broken
+  rotate: false
+  xy: 952, 62
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+nazi_canon_2_broken
+  rotate: false
+  xy: 985, 61
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+nazi_canon_1_broken
+  rotate: false
+  xy: 274, 14
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+alien_big_railguner_d
+  rotate: false
+  xy: 300, 22
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+alien_big_railguner_u
+  rotate: false
+  xy: 326, 22
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+Rafaleboom.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rafal_boom
+  rotate: false
+  xy: 0, 0
+  size: 70, 136
+  orig: 70, 136
+  offset: 0, 0
+  index: 1
+rafal_boom
+  rotate: false
+  xy: 70, 1
+  size: 70, 135
+  orig: 70, 136
+  offset: 0, 1
+  index: 2
+rafal_boom
+  rotate: false
+  xy: 140, 4
+  size: 70, 132
+  orig: 70, 136
+  offset: 0, 4
+  index: 0

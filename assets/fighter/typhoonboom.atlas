@@ -1,0 +1,94 @@
+
+typhoonboom.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+typhoon_boom
+  rotate: false
+  xy: 0, 614
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: 11
+typhoon_boom
+  rotate: false
+  xy: 0, 218
+  size: 396, 396
+  orig: 410, 410
+  offset: 7, 7
+  index: 10
+typhoon_boom
+  rotate: false
+  xy: 410, 658
+  size: 366, 366
+  orig: 410, 410
+  offset: 22, 22
+  index: 9
+typhoon_boom
+  rotate: false
+  xy: 0, 0
+  size: 218, 218
+  orig: 410, 410
+  offset: 96, 96
+  index: 5
+typhoon_boom
+  rotate: false
+  xy: 410, 320
+  size: 338, 338
+  orig: 410, 410
+  offset: 36, 36
+  index: 8
+typhoon_boom
+  rotate: false
+  xy: 396, 15
+  size: 319, 305
+  orig: 410, 410
+  offset: 45, 52
+  index: 2
+typhoon_boom
+  rotate: false
+  xy: 776, 842
+  size: 179, 182
+  orig: 410, 410
+  offset: 114, 114
+  index: 4
+typhoon_boom
+  rotate: false
+  xy: 715, 20
+  size: 300, 300
+  orig: 410, 410
+  offset: 54, 56
+  index: 7
+typhoon_boom
+  rotate: false
+  xy: 748, 396
+  size: 262, 262
+  orig: 410, 410
+  offset: 74, 74
+  index: 6
+typhoon_boom
+  rotate: false
+  xy: 218, 210
+  size: 9, 8
+  orig: 410, 410
+  offset: 199, 202
+  index: 0
+
+typhoonboom2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+typhoon_boom
+  rotate: false
+  xy: 0, 0
+  size: 255, 245
+  orig: 410, 410
+  offset: 77, 82
+  index: 3
+typhoon_boom
+  rotate: false
+  xy: 255, 3
+  size: 253, 242
+  orig: 410, 410
+  offset: 78, 84
+  index: 1

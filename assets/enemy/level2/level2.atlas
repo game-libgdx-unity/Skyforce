@@ -1,0 +1,145 @@
+
+level2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lboss_body
+  rotate: false
+  xy: 1, 368
+  size: 358, 143
+  orig: 358, 143
+  offset: 0, 0
+  index: -1
+lboss_body_broken
+  rotate: false
+  xy: 1, 223
+  size: 358, 143
+  orig: 358, 143
+  offset: 0, 0
+  index: -1
+boss_body_broken
+  rotate: false
+  xy: 361, 283
+  size: 221, 228
+  orig: 221, 228
+  offset: 0, 0
+  index: -1
+boss_body
+  rotate: false
+  xy: 584, 283
+  size: 221, 228
+  orig: 221, 228
+  offset: 0, 0
+  index: -1
+nazi_big_ufo
+  rotate: false
+  xy: 1, 70
+  size: 241, 151
+  orig: 241, 151
+  offset: 0, 0
+  index: -1
+boss_base_broken
+  rotate: true
+  xy: 361, 60
+  size: 221, 228
+  orig: 221, 228
+  offset: 0, 0
+  index: -1
+boss_base
+  rotate: false
+  xy: 591, 53
+  size: 221, 228
+  orig: 221, 228
+  offset: 0, 0
+  index: -1
+boss_head
+  rotate: false
+  xy: 244, 115
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+boss_head_broken
+  rotate: false
+  xy: 807, 405
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+boss_canon
+  rotate: false
+  xy: 807, 295
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+boss_canon_broken
+  rotate: true
+  xy: 893, 441
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+boss_rocket
+  rotate: false
+  xy: 814, 185
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+boss_rocket_broken
+  rotate: false
+  xy: 814, 75
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+boss_rocket_r_broken
+  rotate: true
+  xy: 1, 35
+  size: 33, 87
+  orig: 33, 87
+  offset: 0, 0
+  index: -1
+boss_rocket_l_broken
+  rotate: true
+  xy: 1, 1
+  size: 32, 87
+  orig: 32, 87
+  offset: 0, 0
+  index: -1
+boss_rocket_r
+  rotate: true
+  xy: 893, 406
+  size: 33, 87
+  orig: 33, 87
+  offset: 0, 0
+  index: -1
+boss_rocket_l
+  rotate: true
+  xy: 90, 36
+  size: 32, 87
+  orig: 32, 87
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket
+  rotate: true
+  xy: 244, 68
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket_broken
+  rotate: true
+  xy: 814, 28
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+nazi_land_canon
+  rotate: true
+  xy: 179, 24
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1

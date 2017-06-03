@@ -1,0 +1,19 @@
+
+loadingWithOutHelp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+word
+  rotate: false
+  xy: 0, 0
+  size: 254, 122
+  orig: 254, 122
+  offset: 0, 0
+  index: -1
+cube
+  rotate: false
+  xy: 255, 107
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1

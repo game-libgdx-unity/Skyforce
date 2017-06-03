@@ -1,0 +1,449 @@
+
+alienEffect.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alien_railgun_gather
+  rotate: true
+  xy: 1, 1
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 3
+alien_railgun_gather
+  rotate: true
+  xy: 91, 1
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 5
+alien_railgun_gather
+  rotate: true
+  xy: 181, 1
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 1
+alien_railgun_gather
+  rotate: true
+  xy: 271, 1
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 2
+alien_railgun_gather
+  rotate: true
+  xy: 361, 1
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 0
+alien_railgun_gather
+  rotate: true
+  xy: 451, 1
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: 4
+alien_railgun_all_body
+  rotate: false
+  xy: 541, 35
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 0
+alien_railgun_all_head
+  rotate: false
+  xy: 541, 5
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 0
+alien_railgun_all_body
+  rotate: false
+  xy: 603, 35
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 1
+alien_railgun_all_head
+  rotate: false
+  xy: 603, 5
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: 1
+alien_bullet_2
+  rotate: false
+  xy: 665, 27
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: 4
+alien_bullet_2
+  rotate: false
+  xy: 700, 27
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: 5
+alien_bullet_2
+  rotate: false
+  xy: 735, 27
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: 0
+alien_bullet_2
+  rotate: false
+  xy: 770, 27
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: 2
+alien_bullet_2
+  rotate: false
+  xy: 805, 27
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: 3
+alien_bullet_2
+  rotate: false
+  xy: 840, 27
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: 1
+alien_bullet_hit
+  rotate: false
+  xy: 875, 29
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+alien_bullet_hit
+  rotate: false
+  xy: 911, 29
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+alien_bullet_hit
+  rotate: false
+  xy: 947, 29
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+alien_bullet_hit
+  rotate: false
+  xy: 983, 29
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+alien_railgun_half_body
+  rotate: false
+  xy: 665, 11
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 1
+alien_railgun_half_body
+  rotate: false
+  xy: 697, 11
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 0
+alien_railgun_half_head
+  rotate: false
+  xy: 729, 11
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 1
+alien_railgun_half_head
+  rotate: false
+  xy: 761, 11
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: 0
+alien_bullet_1
+  rotate: false
+  xy: 793, 13
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 0
+alien_bullet_1
+  rotate: false
+  xy: 807, 13
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 1
+alien_railgun_quarter_head
+  rotate: false
+  xy: 821, 18
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 0
+alien_railgun_quarter_body
+  rotate: false
+  xy: 838, 18
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 1
+alien_railgun_quarter_head
+  rotate: false
+  xy: 855, 18
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 1
+alien_railgun_quarter_body
+  rotate: false
+  xy: 665, 2
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: 0
+
+alienEffect2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alien_big_boom_1
+  rotate: true
+  xy: 1, 314
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 1
+alien_big_boom_1
+  rotate: true
+  xy: 206, 314
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 4
+alien_big_boom_1
+  rotate: true
+  xy: 411, 314
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 5
+alien_big_boom_1
+  rotate: false
+  xy: 616, 301
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 6
+alien_big_boom_1
+  rotate: false
+  xy: 808, 301
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 0
+alien_big_boom_1
+  rotate: true
+  xy: 1, 122
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 8
+alien_big_boom_1
+  rotate: true
+  xy: 206, 122
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 3
+alien_big_boom_1
+  rotate: false
+  xy: 411, 109
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 7
+alien_small_boom_2
+  rotate: true
+  xy: 1, 14
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 3
+alien_small_boom_2
+  rotate: true
+  xy: 111, 14
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 2
+alien_small_boom_2
+  rotate: true
+  xy: 221, 14
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 4
+alien_big_boom_1
+  rotate: true
+  xy: 603, 109
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 9
+alien_big_boom_1
+  rotate: false
+  xy: 808, 96
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: 2
+alien_small_boom_2
+  rotate: true
+  xy: 331, 1
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 0
+alien_small_boom_2
+  rotate: true
+  xy: 441, 1
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 1
+alien_small_boom_2
+  rotate: true
+  xy: 551, 1
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: 5
+
+alienEffect3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alien_shatter_1
+  rotate: false
+  xy: 1, 117
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: 5
+alien_shatter_1
+  rotate: false
+  xy: 1, 1
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: 2
+alien_shatter_1
+  rotate: false
+  xy: 132, 117
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: 3
+alien_shatter_1
+  rotate: false
+  xy: 132, 1
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: 4
+alien_shatter_1
+  rotate: false
+  xy: 263, 117
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: 6
+alien_small_boom_3
+  rotate: true
+  xy: 263, 7
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: 0
+alien_small_boom_3
+  rotate: true
+  xy: 394, 123
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: 1
+alien_small_boom_3
+  rotate: true
+  xy: 512, 123
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: 5
+alien_small_boom_3
+  rotate: true
+  xy: 630, 123
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: 3
+alien_small_boom_3
+  rotate: true
+  xy: 748, 123
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: 2
+alien_small_boom_3
+  rotate: true
+  xy: 866, 123
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: 4
+alien_shatter_2
+  rotate: true
+  xy: 381, 8
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: 4
+alien_shatter_2
+  rotate: false
+  xy: 484, 20
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: 6
+alien_shatter_2
+  rotate: false
+  xy: 593, 20
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: 5
+alien_shatter_2
+  rotate: false
+  xy: 702, 20
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: 2
+alien_shatter_2
+  rotate: false
+  xy: 811, 20
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: 3

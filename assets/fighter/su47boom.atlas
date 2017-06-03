@@ -1,0 +1,89 @@
+
+su47boom.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+su47_boom
+  rotate: false
+  xy: 0, 627
+  size: 369, 369
+  orig: 369, 369
+  offset: 0, 0
+  index: 11
+su47_boom
+  rotate: false
+  xy: 0, 273
+  size: 355, 354
+  orig: 369, 369
+  offset: 7, 6
+  index: 10
+su47_boom
+  rotate: false
+  xy: 369, 662
+  size: 334, 334
+  orig: 369, 369
+  offset: 18, 16
+  index: 9
+su47_boom
+  rotate: false
+  xy: 703, 692
+  size: 304, 304
+  orig: 369, 369
+  offset: 33, 31
+  index: 8
+su47_boom
+  rotate: false
+  xy: 0, 0
+  size: 273, 273
+  orig: 369, 369
+  offset: 48, 47
+  index: 7
+su47_boom
+  rotate: false
+  xy: 273, 31
+  size: 243, 242
+  orig: 369, 369
+  offset: 63, 62
+  index: 6
+su47_boom
+  rotate: false
+  xy: 369, 454
+  size: 207, 208
+  orig: 369, 369
+  offset: 81, 80
+  index: 5
+su47_boom
+  rotate: false
+  xy: 355, 288
+  size: 167, 166
+  orig: 369, 369
+  offset: 101, 101
+  index: 4
+su47_boom
+  rotate: false
+  xy: 576, 531
+  size: 131, 131
+  orig: 369, 369
+  offset: 119, 118
+  index: 3
+su47_boom
+  rotate: false
+  xy: 576, 440
+  size: 91, 91
+  orig: 369, 369
+  offset: 139, 138
+  index: 2
+su47_boom
+  rotate: false
+  xy: 522, 404
+  size: 51, 50
+  orig: 369, 369
+  offset: 159, 159
+  index: 1
+su47_boom
+  rotate: false
+  xy: 667, 496
+  size: 35, 35
+  orig: 369, 369
+  offset: 167, 166
+  index: 0

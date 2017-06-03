@@ -1,0 +1,166 @@
+
+level3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv3_boss_land_shadow
+  rotate: false
+  xy: 1, 556
+  size: 453, 459
+  orig: 453, 459
+  offset: 0, 0
+  index: -1
+lv3_boss_land
+  rotate: true
+  xy: 1, 67
+  size: 487, 237
+  orig: 487, 237
+  offset: 0, 0
+  index: 2
+lv3_boss_land
+  rotate: false
+  xy: 456, 803
+  size: 446, 212
+  orig: 446, 212
+  offset: 0, 0
+  index: 1
+lv3_boss_land
+  rotate: true
+  xy: 240, 173
+  size: 381, 177
+  orig: 381, 177
+  offset: 0, 0
+  index: 3
+nazi_space_battleship_broken
+  rotate: true
+  xy: 456, 648
+  size: 153, 390
+  orig: 153, 390
+  offset: 0, 0
+  index: -1
+nazi_space_battleship
+  rotate: true
+  xy: 456, 493
+  size: 153, 390
+  orig: 153, 390
+  offset: 0, 0
+  index: -1
+lv3_boss_building
+  rotate: false
+  xy: 904, 864
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: 2
+lv3_boss_building_4_broken
+  rotate: true
+  xy: 240, 55
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+lv3_boss_building_2_broken
+  rotate: false
+  xy: 419, 340
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+lv3_boss_building_1_broken
+  rotate: false
+  xy: 419, 187
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+lv3_boss_building
+  rotate: false
+  xy: 537, 340
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: 1
+lv3_boss_building
+  rotate: false
+  xy: 537, 187
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: 3
+lv3_boss_building_3_broken
+  rotate: false
+  xy: 655, 340
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+lv3_boss_building
+  rotate: false
+  xy: 655, 187
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: 4
+nazi_moon_canon
+  rotate: true
+  xy: 848, 717
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket
+  rotate: true
+  xy: 904, 817
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+nazi_tank_rocket_broken
+  rotate: false
+  xy: 1, 1
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+nazi_robot_broken
+  rotate: false
+  xy: 773, 448
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+nazi_robot
+  rotate: true
+  xy: 848, 658
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+nazi_space_battleship_propeller
+  rotate: false
+  xy: 970, 826
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+lv3_boss_cannon
+  rotate: false
+  xy: 393, 152
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: 2
+lv3_boss_cannon
+  rotate: false
+  xy: 419, 535
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: 1
+lv3_boss_building_shadow
+  rotate: false
+  xy: 419, 183
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

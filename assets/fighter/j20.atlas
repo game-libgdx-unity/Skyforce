@@ -1,0 +1,173 @@
+
+j20.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j20_shatter
+  rotate: false
+  xy: 1, 131
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: 2
+j20_shatter
+  rotate: false
+  xy: 1, 7
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: 4
+j20_shatter
+  rotate: false
+  xy: 122, 131
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: 0
+j20_shatter
+  rotate: false
+  xy: 122, 7
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: 1
+j20_shatter
+  rotate: false
+  xy: 243, 131
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: 3
+j20_right
+  rotate: false
+  xy: 243, 40
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+j20_right
+  rotate: false
+  xy: 364, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+j20_stand
+  rotate: false
+  xy: 426, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+j20_right
+  rotate: false
+  xy: 488, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+j20_left
+  rotate: false
+  xy: 550, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+j20_right
+  rotate: false
+  xy: 612, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+j20_left
+  rotate: false
+  xy: 674, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+j20_left
+  rotate: false
+  xy: 736, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+j20_stand
+  rotate: false
+  xy: 798, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+j20_left
+  rotate: false
+  xy: 860, 164
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+j20_lv3_bullet
+  rotate: true
+  xy: 243, 30
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+j20_lv1_bullet
+  rotate: false
+  xy: 305, 97
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+j20_lv2_bullet
+  rotate: true
+  xy: 364, 154
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+j20_lv3_bullet
+  rotate: false
+  xy: 922, 221
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+j20_lv2_bullet
+  rotate: true
+  xy: 243, 20
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+j20_lv1_bullet
+  rotate: false
+  xy: 305, 63
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+j20_bullet_force2
+  rotate: true
+  xy: 1, 1
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+j20_bullet_force3
+  rotate: false
+  xy: 315, 97
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+j20_bullet_force5
+  rotate: true
+  xy: 364, 148
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1

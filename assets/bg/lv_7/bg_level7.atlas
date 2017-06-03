@@ -1,0 +1,117 @@
+
+bg_level7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+floor
+  rotate: false
+  xy: 1, 191
+  size: 640, 64
+  orig: 640, 64
+  offset: 0, 0
+  index: -1
+life_tree
+  rotate: false
+  xy: 1, 46
+  size: 120, 143
+  orig: 120, 143
+  offset: 0, 0
+  index: -1
+crush
+  rotate: false
+  xy: 123, 78
+  size: 129, 111
+  orig: 129, 111
+  offset: 0, 0
+  index: 0
+wall_broken
+  rotate: true
+  xy: 254, 92
+  size: 97, 135
+  orig: 97, 135
+  offset: 0, 0
+  index: -1
+wall
+  rotate: true
+  xy: 391, 92
+  size: 97, 135
+  orig: 97, 135
+  offset: 0, 0
+  index: -1
+wall
+  rotate: true
+  xy: 528, 92
+  size: 97, 135
+  orig: 97, 135
+  offset: 0, 0
+  index: 2
+lab
+  rotate: false
+  xy: 665, 152
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+contrl
+  rotate: false
+  xy: 795, 162
+  size: 109, 93
+  orig: 109, 93
+  offset: 0, 0
+  index: -1
+crush
+  rotate: false
+  xy: 665, 99
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: 2
+tube
+  rotate: false
+  xy: 906, 183
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+cover_broken
+  rotate: true
+  xy: 1, 1
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+hole
+  rotate: true
+  xy: 48, 1
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+cover
+  rotate: true
+  xy: 95, 1
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+alien_crystal
+  rotate: true
+  xy: 142, 18
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 975, 210
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+crush
+  rotate: true
+  xy: 643, 218
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: 1

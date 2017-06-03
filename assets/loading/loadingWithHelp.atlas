@@ -1,0 +1,19 @@
+
+loadingWithHelp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+help
+  rotate: false
+  xy: 0, 16
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+cube
+  rotate: false
+  xy: 0, 0
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,173 @@
+
+typhoon.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+typhoon_shatter
+  rotate: false
+  xy: 1, 134
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: 0
+typhoon_shatter
+  rotate: false
+  xy: 1, 11
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: 1
+typhoon_shatter
+  rotate: false
+  xy: 130, 134
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: 2
+typhoon_shatter
+  rotate: false
+  xy: 130, 11
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: 3
+typhoon_shatter
+  rotate: false
+  xy: 259, 134
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: 4
+typhoon_right
+  rotate: false
+  xy: 259, 43
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+typhoon_stand
+  rotate: false
+  xy: 388, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+typhoon_right
+  rotate: false
+  xy: 321, 43
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+typhoon_stand
+  rotate: false
+  xy: 450, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+typhoon_left
+  rotate: false
+  xy: 512, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+typhoon_left
+  rotate: false
+  xy: 574, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 0
+typhoon_right
+  rotate: false
+  xy: 636, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 2
+typhoon_left
+  rotate: false
+  xy: 698, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+typhoon_right
+  rotate: false
+  xy: 760, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+typhoon_left
+  rotate: false
+  xy: 822, 166
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 3
+typhoon_lv3_bullet
+  rotate: true
+  xy: 1, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+typhoon_lv2_bullet
+  rotate: true
+  xy: 35, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+typhoon_lv1_bullet
+  rotate: true
+  xy: 69, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 1
+typhoon_lv2_bullet
+  rotate: true
+  xy: 103, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+typhoon_lv1_bullet
+  rotate: true
+  xy: 137, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+typhoon_lv3_bullet
+  rotate: true
+  xy: 171, 1
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: 0
+typhoon_bullet_force1
+  rotate: true
+  xy: 259, 37
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+typhoon_bullet_force6
+  rotate: true
+  xy: 388, 160
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+typhoon_bullet_force2
+  rotate: false
+  xy: 884, 223
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1

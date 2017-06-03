@@ -1,0 +1,89 @@
+
+bg_level6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hill
+  rotate: true
+  xy: 1, 89
+  size: 143, 257
+  orig: 143, 257
+  offset: 0, 0
+  index: -1
+canyon
+  rotate: true
+  xy: 1, 1
+  size: 86, 256
+  orig: 86, 256
+  offset: 0, 0
+  index: -1
+satellite
+  rotate: false
+  xy: 260, 103
+  size: 119, 129
+  orig: 119, 129
+  offset: 0, 0
+  index: -1
+crater
+  rotate: false
+  xy: 381, 103
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: 2
+aerolite
+  rotate: false
+  xy: 497, 136
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+plant
+  rotate: false
+  xy: 591, 146
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: 0
+crater
+  rotate: false
+  xy: 652, 168
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+purBG
+  rotate: false
+  xy: 719, 168
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+comer
+  rotate: true
+  xy: 785, 179
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+alien_tower
+  rotate: true
+  xy: 853, 183
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 919, 196
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+crater
+  rotate: false
+  xy: 958, 200
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: 0

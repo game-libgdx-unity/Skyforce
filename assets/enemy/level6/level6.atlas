@@ -1,0 +1,117 @@
+
+level6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv_6_boss_head
+  rotate: true
+  xy: 1, 55
+  size: 193, 261
+  orig: 193, 261
+  offset: 0, 0
+  index: -1
+lv_6_boss_head_broken
+  rotate: true
+  xy: 264, 55
+  size: 193, 261
+  orig: 193, 261
+  offset: 0, 0
+  index: -1
+lv_6_boss_glass
+  rotate: false
+  xy: 1, 1
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: 1
+lv_6_boss_glass
+  rotate: false
+  xy: 527, 196
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: 4
+lv_6_boss_glass
+  rotate: false
+  xy: 91, 1
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: 2
+lv_6_boss_glass
+  rotate: false
+  xy: 527, 142
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: 5
+lv_6_boss_glass
+  rotate: false
+  xy: 617, 196
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: 6
+lv_6_boss_glass
+  rotate: false
+  xy: 181, 1
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: 3
+lv_6_boss_eye
+  rotate: false
+  xy: 527, 74
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+lv_6_boss_eye_broken
+  rotate: false
+  xy: 617, 128
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+lv_6_boss_canon
+  rotate: false
+  xy: 707, 218
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 6
+lv_6_boss_canon
+  rotate: false
+  xy: 271, 23
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 2
+lv_6_boss_canon
+  rotate: false
+  xy: 739, 218
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 5
+lv_6_boss_canon
+  rotate: false
+  xy: 303, 23
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 4
+lv_6_boss_canon
+  rotate: false
+  xy: 771, 218
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 1
+lv_6_boss_canon
+  rotate: false
+  xy: 335, 23
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 3
